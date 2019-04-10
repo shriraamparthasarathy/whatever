@@ -10,7 +10,7 @@ export default Controller.extend({
 	}),
 	actions:{
 		doSomething(){
-			var obj= {fpath,fname,sword};
+			var obj= {};
 			$.post().then(function(response){});
 		}
 	}		
